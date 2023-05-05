@@ -8,7 +8,7 @@ import vue from '@vitejs/plugin-vue';
 
 export default defineConfig({
     build: {
-        outDir: app_path + '/public/build-pages',
+        outDir: __dirname + '/dist/build-pages',
         emptyOutDir: true,
         manifest: true,
     },
