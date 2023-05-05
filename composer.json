@@ -13,7 +13,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                HexGad\\Pages\\Providers\\PagesServiceProvider"
+                "HexGad\\Pages\\Providers\\PagesServiceProvider"
             ],
             "aliases": {}
         }
