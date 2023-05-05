@@ -50,7 +50,7 @@ class PagesServiceProvider extends ServiceProvider
     {
         $this->publishes([
             module_path($this->moduleName, 'dist/build-pages') => public_path(),
-        ], 'assets');
+        ], 'modules-assets');
     }
 
 
