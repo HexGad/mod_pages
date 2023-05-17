@@ -3,7 +3,7 @@
     "alias": "pages",
     "description": "",
     "keywords": [],
-    "priority": 5,
+    "priority": 7,
     "providers": [
         "HexGad\\Pages\\Providers\\PagesServiceProvider"
     ],
